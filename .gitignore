@@ -1,0 +1,43 @@
+# macOS files
+.DS_Store
+
+# Scripts to run on HPC
+*_hpc_array.R
+*_hpc.R
+*.sh
+
+# R/Rstudio files
+.Rapp.history
+
+# VS code files
+.vscode/
+
+# Data that we cannot share ourselves
+
+# Excess mortality data (check with Jamie and Marcia)
+data/excessmortality/samples_bayesian/*
+data/excessmortality/samples_frequentist/*
+data/excessmortality/excess_mortality_bayesian.csv
+data/excessmortality/excess_mortality_frequentist.csv
+
+samples/allcausemortality_age_group_sex_uf.RDS
+samples/excessmortality_age_group_sex_uf.RDS
+
+# Live births data (too large to share)
+data/livebirths/livebirths_rawdata/
+
+# PNS2019 raw data (too large to share)
+data/pns2019/pns2019_rawdata/
+
+# Campinas data (not yet cleared)
+data/campinas/campinassimple.csv
+data/campinas/planilha_sigilosa.xlsx
+
+# Civil registry data (not yet cleared)
+data/civilreg/*
+!data/civilreg/README.md
+
+# Large samples files
+samples/femalefertility_age_group_child_age_uf.RDS
+samples/orphanhood_age_group_child_age_sex_uf_allcause.RDS
+samples/orphanhood_age_group_child_age_sex_uf_excess.RDS

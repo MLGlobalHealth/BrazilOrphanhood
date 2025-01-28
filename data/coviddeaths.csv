@@ -1,0 +1,592 @@
+uf,abbrev_state,name_state,month,month.name,year,covid_deaths
+11,RO,Rondônia,3,Mar,2020,2
+11,RO,Rondônia,4,Apr,2020,21
+11,RO,Rondônia,5,May,2020,175
+11,RO,Rondônia,6,Jun,2020,396
+11,RO,Rondônia,7,Jul,2020,362
+11,RO,Rondônia,8,Aug,2020,294
+11,RO,Rondônia,9,Sep,2020,204
+11,RO,Rondônia,10,Oct,2020,90
+11,RO,Rondônia,11,Nov,2020,100
+11,RO,Rondônia,12,Dec,2020,246
+11,RO,Rondônia,1,Jan,2021,497
+11,RO,Rondônia,2,Feb,2021,677
+11,RO,Rondônia,3,Mar,2021,1332
+11,RO,Rondônia,4,Apr,2021,931
+11,RO,Rondônia,5,May,2021,534
+11,RO,Rondônia,6,Jun,2021,335
+11,RO,Rondônia,7,Jul,2021,197
+11,RO,Rondônia,8,Aug,2021,101
+11,RO,Rondônia,9,Sep,2021,49
+11,RO,Rondônia,10,Oct,2021,39
+11,RO,Rondônia,11,Nov,2021,65
+11,RO,Rondônia,12,Dec,2021,113
+12,AC,Acre,4,Apr,2020,22
+12,AC,Acre,5,May,2020,147
+12,AC,Acre,6,Jun,2020,227
+12,AC,Acre,7,Jul,2020,147
+12,AC,Acre,8,Aug,2020,71
+12,AC,Acre,9,Sep,2020,36
+12,AC,Acre,10,Oct,2020,34
+12,AC,Acre,11,Nov,2020,38
+12,AC,Acre,12,Dec,2020,87
+12,AC,Acre,1,Jan,2021,117
+12,AC,Acre,2,Feb,2021,245
+12,AC,Acre,3,Mar,2021,445
+12,AC,Acre,4,Apr,2021,273
+12,AC,Acre,5,May,2021,110
+12,AC,Acre,6,Jun,2021,53
+12,AC,Acre,7,Jul,2021,33
+12,AC,Acre,8,Aug,2021,13
+12,AC,Acre,9,Sep,2021,4
+12,AC,Acre,10,Oct,2021,7
+12,AC,Acre,11,Nov,2021,2
+12,AC,Acre,12,Dec,2021,3
+13,AM,Amazonas,3,Mar,2020,4
+13,AM,Amazonas,4,Apr,2020,1343
+13,AM,Amazonas,5,May,2020,1762
+13,AM,Amazonas,6,Jun,2020,561
+13,AM,Amazonas,7,Jul,2020,370
+13,AM,Amazonas,8,Aug,2020,280
+13,AM,Amazonas,9,Sep,2020,275
+13,AM,Amazonas,10,Oct,2020,412
+13,AM,Amazonas,11,Nov,2020,353
+13,AM,Amazonas,12,Dec,2020,560
+13,AM,Amazonas,1,Jan,2021,4008
+13,AM,Amazonas,2,Feb,2021,2603
+13,AM,Amazonas,3,Mar,2021,974
+13,AM,Amazonas,4,Apr,2021,509
+13,AM,Amazonas,5,May,2021,303
+13,AM,Amazonas,6,Jun,2021,242
+13,AM,Amazonas,7,Jul,2021,192
+13,AM,Amazonas,8,Aug,2021,147
+13,AM,Amazonas,9,Sep,2021,51
+13,AM,Amazonas,10,Oct,2021,31
+13,AM,Amazonas,11,Nov,2021,33
+13,AM,Amazonas,12,Dec,2021,47
+14,RR,Roraima,4,Apr,2020,9
+14,RR,Roraima,5,May,2020,140
+14,RR,Roraima,6,Jun,2020,302
+14,RR,Roraima,7,Jul,2020,144
+14,RR,Roraima,8,Aug,2020,47
+14,RR,Roraima,9,Sep,2020,31
+14,RR,Roraima,10,Oct,2020,33
+14,RR,Roraima,11,Nov,2020,55
+14,RR,Roraima,12,Dec,2020,45
+14,RR,Roraima,1,Jan,2021,134
+14,RR,Roraima,2,Feb,2021,254
+14,RR,Roraima,3,Mar,2021,220
+14,RR,Roraima,4,Apr,2021,138
+14,RR,Roraima,5,May,2021,108
+14,RR,Roraima,6,Jun,2021,110
+14,RR,Roraima,7,Jul,2021,99
+14,RR,Roraima,8,Aug,2021,61
+14,RR,Roraima,9,Sep,2021,42
+14,RR,Roraima,10,Oct,2021,29
+14,RR,Roraima,11,Nov,2021,7
+14,RR,Roraima,12,Dec,2021,19
+15,PA,Pará,3,Mar,2020,2
+15,PA,Pará,4,Apr,2020,877
+15,PA,Pará,5,May,2020,2947
+15,PA,Pará,6,Jun,2020,1437
+15,PA,Pará,7,Jul,2020,851
+15,PA,Pará,8,Aug,2020,509
+15,PA,Pará,9,Sep,2020,333
+15,PA,Pará,10,Oct,2020,223
+15,PA,Pará,11,Nov,2020,297
+15,PA,Pará,12,Dec,2020,424
+15,PA,Pará,1,Jan,2021,771
+15,PA,Pará,2,Feb,2021,1043
+15,PA,Pará,3,Mar,2021,2704
+15,PA,Pará,4,Apr,2021,2640
+15,PA,Pará,5,May,2021,1079
+15,PA,Pará,6,Jun,2021,732
+15,PA,Pará,7,Jul,2021,425
+15,PA,Pará,8,Aug,2021,224
+15,PA,Pará,9,Sep,2021,110
+15,PA,Pará,10,Oct,2021,105
+15,PA,Pará,11,Nov,2021,203
+15,PA,Pará,12,Dec,2021,361
+16,AP,Amapá,4,Apr,2020,57
+16,AP,Amapá,5,May,2020,404
+16,AP,Amapá,6,Jun,2020,246
+16,AP,Amapá,7,Jul,2020,76
+16,AP,Amapá,8,Aug,2020,47
+16,AP,Amapá,9,Sep,2020,24
+16,AP,Amapá,10,Oct,2020,39
+16,AP,Amapá,11,Nov,2020,89
+16,AP,Amapá,12,Dec,2020,131
+16,AP,Amapá,1,Jan,2021,97
+16,AP,Amapá,2,Feb,2021,65
+16,AP,Amapá,3,Mar,2021,213
+16,AP,Amapá,4,Apr,2021,278
+16,AP,Amapá,5,May,2021,148
+16,AP,Amapá,6,Jun,2021,133
+16,AP,Amapá,7,Jul,2021,60
+16,AP,Amapá,8,Aug,2021,34
+16,AP,Amapá,9,Sep,2021,10
+16,AP,Amapá,10,Oct,2021,7
+16,AP,Amapá,11,Nov,2021,6
+16,AP,Amapá,12,Dec,2021,17
+17,TO,Tocantins,3,Mar,2020,1
+17,TO,Tocantins,4,Apr,2020,4
+17,TO,Tocantins,5,May,2020,71
+17,TO,Tocantins,6,Jun,2020,118
+17,TO,Tocantins,7,Jul,2020,189
+17,TO,Tocantins,8,Aug,2020,326
+17,TO,Tocantins,9,Sep,2020,238
+17,TO,Tocantins,10,Oct,2020,106
+17,TO,Tocantins,11,Nov,2020,62
+17,TO,Tocantins,12,Dec,2020,63
+17,TO,Tocantins,1,Jan,2021,156
+17,TO,Tocantins,2,Feb,2021,158
+17,TO,Tocantins,3,Mar,2021,640
+17,TO,Tocantins,4,Apr,2021,528
+17,TO,Tocantins,5,May,2021,355
+17,TO,Tocantins,6,Jun,2021,370
+17,TO,Tocantins,7,Jul,2021,199
+17,TO,Tocantins,8,Aug,2021,108
+17,TO,Tocantins,9,Sep,2021,74
+17,TO,Tocantins,10,Oct,2021,37
+17,TO,Tocantins,11,Nov,2021,33
+17,TO,Tocantins,12,Dec,2021,44
+21,MA,Maranhão,3,Mar,2020,4
+21,MA,Maranhão,4,Apr,2020,329
+21,MA,Maranhão,5,May,2020,1458
+21,MA,Maranhão,6,Jun,2020,1181
+21,MA,Maranhão,7,Jul,2020,767
+21,MA,Maranhão,8,Aug,2020,537
+21,MA,Maranhão,9,Sep,2020,318
+21,MA,Maranhão,10,Oct,2020,185
+21,MA,Maranhão,11,Nov,2020,160
+21,MA,Maranhão,12,Dec,2020,193
+21,MA,Maranhão,1,Jan,2021,290
+21,MA,Maranhão,2,Feb,2021,625
+21,MA,Maranhão,3,Mar,2021,1665
+21,MA,Maranhão,4,Apr,2021,1522
+21,MA,Maranhão,5,May,2021,1112
+21,MA,Maranhão,6,Jun,2021,1044
+21,MA,Maranhão,7,Jul,2021,559
+21,MA,Maranhão,8,Aug,2021,245
+21,MA,Maranhão,9,Sep,2021,127
+21,MA,Maranhão,10,Oct,2021,79
+21,MA,Maranhão,11,Nov,2021,118
+21,MA,Maranhão,12,Dec,2021,133
+22,PI,Piauí,3,Mar,2020,5
+22,PI,Piauí,4,Apr,2020,25
+22,PI,Piauí,5,May,2020,158
+22,PI,Piauí,6,Jun,2020,522
+22,PI,Piauí,7,Jul,2020,655
+22,PI,Piauí,8,Aug,2020,475
+22,PI,Piauí,9,Sep,2020,271
+22,PI,Piauí,10,Oct,2020,262
+22,PI,Piauí,11,Nov,2020,217
+22,PI,Piauí,12,Dec,2020,212
+22,PI,Piauí,1,Jan,2021,220
+22,PI,Piauí,2,Feb,2021,302
+22,PI,Piauí,3,Mar,2021,993
+22,PI,Piauí,4,Apr,2021,1112
+22,PI,Piauí,5,May,2021,710
+22,PI,Piauí,6,Jun,2021,429
+22,PI,Piauí,7,Jul,2021,234
+22,PI,Piauí,8,Aug,2021,120
+22,PI,Piauí,9,Sep,2021,71
+22,PI,Piauí,10,Oct,2021,103
+22,PI,Piauí,11,Nov,2021,111
+22,PI,Piauí,12,Dec,2021,77
+23,CE,Ceará,3,Mar,2020,47
+23,CE,Ceará,4,Apr,2020,1016
+23,CE,Ceará,5,May,2020,4588
+23,CE,Ceará,6,Jun,2020,2206
+23,CE,Ceará,7,Jul,2020,1306
+23,CE,Ceará,8,Aug,2020,781
+23,CE,Ceará,9,Sep,2020,602
+23,CE,Ceará,10,Oct,2020,427
+23,CE,Ceará,11,Nov,2020,349
+23,CE,Ceará,12,Dec,2020,525
+23,CE,Ceará,1,Jan,2021,602
+23,CE,Ceará,2,Feb,2021,1162
+23,CE,Ceará,3,Mar,2021,3926
+23,CE,Ceará,4,Apr,2021,4418
+23,CE,Ceará,5,May,2021,2975
+23,CE,Ceará,6,Jun,2021,1538
+23,CE,Ceará,7,Jul,2021,569
+23,CE,Ceará,8,Aug,2021,174
+23,CE,Ceará,9,Sep,2021,105
+23,CE,Ceará,10,Oct,2021,98
+23,CE,Ceará,11,Nov,2021,92
+23,CE,Ceará,12,Dec,2021,93
+24,RN,Rio Grande Do Norte,3,Mar,2020,9
+24,RN,Rio Grande Do Norte,4,Apr,2020,59
+24,RN,Rio Grande Do Norte,5,May,2020,375
+24,RN,Rio Grande Do Norte,6,Jun,2020,1012
+24,RN,Rio Grande Do Norte,7,Jul,2020,680
+24,RN,Rio Grande Do Norte,8,Aug,2020,291
+24,RN,Rio Grande Do Norte,9,Sep,2020,124
+24,RN,Rio Grande Do Norte,10,Oct,2020,95
+24,RN,Rio Grande Do Norte,11,Nov,2020,103
+24,RN,Rio Grande Do Norte,12,Dec,2020,344
+24,RN,Rio Grande Do Norte,1,Jan,2021,329
+24,RN,Rio Grande Do Norte,2,Feb,2021,423
+24,RN,Rio Grande Do Norte,3,Mar,2021,1134
+24,RN,Rio Grande Do Norte,4,Apr,2021,1010
+24,RN,Rio Grande Do Norte,5,May,2021,793
+24,RN,Rio Grande Do Norte,6,Jun,2021,649
+24,RN,Rio Grande Do Norte,7,Jul,2021,246
+24,RN,Rio Grande Do Norte,8,Aug,2021,96
+24,RN,Rio Grande Do Norte,9,Sep,2021,43
+24,RN,Rio Grande Do Norte,10,Oct,2021,58
+24,RN,Rio Grande Do Norte,11,Nov,2021,115
+24,RN,Rio Grande Do Norte,12,Dec,2021,76
+25,PB,Paraíba,3,Mar,2020,9
+25,PB,Paraíba,4,Apr,2020,76
+25,PB,Paraíba,5,May,2020,613
+25,PB,Paraíba,6,Jun,2020,802
+25,PB,Paraíba,7,Jul,2020,535
+25,PB,Paraíba,8,Aug,2020,419
+25,PB,Paraíba,9,Sep,2020,266
+25,PB,Paraíba,10,Oct,2020,216
+25,PB,Paraíba,11,Nov,2020,206
+25,PB,Paraíba,12,Dec,2020,377
+25,PB,Paraíba,1,Jan,2021,420
+25,PB,Paraíba,2,Feb,2021,447
+25,PB,Paraíba,3,Mar,2021,1224
+25,PB,Paraíba,4,Apr,2021,1090
+25,PB,Paraíba,5,May,2021,872
+25,PB,Paraíba,6,Jun,2021,971
+25,PB,Paraíba,7,Jul,2021,370
+25,PB,Paraíba,8,Aug,2021,149
+25,PB,Paraíba,9,Sep,2021,144
+25,PB,Paraíba,10,Oct,2021,107
+25,PB,Paraíba,11,Nov,2021,117
+25,PB,Paraíba,12,Dec,2021,58
+26,PE,Pernambuco,1,Jan,2020,1
+26,PE,Pernambuco,3,Mar,2020,24
+26,PE,Pernambuco,4,Apr,2020,1187
+26,PE,Pernambuco,5,May,2020,3492
+26,PE,Pernambuco,6,Jun,2020,1798
+26,PE,Pernambuco,7,Jul,2020,1267
+26,PE,Pernambuco,8,Aug,2020,911
+26,PE,Pernambuco,9,Sep,2020,523
+26,PE,Pernambuco,10,Oct,2020,451
+26,PE,Pernambuco,11,Nov,2020,709
+26,PE,Pernambuco,12,Dec,2020,1059
+26,PE,Pernambuco,1,Jan,2021,1017
+26,PE,Pernambuco,2,Feb,2021,872
+26,PE,Pernambuco,3,Mar,2021,2028
+26,PE,Pernambuco,4,Apr,2021,2454
+26,PE,Pernambuco,5,May,2021,2569
+26,PE,Pernambuco,6,Jun,2021,1944
+26,PE,Pernambuco,7,Jul,2021,738
+26,PE,Pernambuco,8,Aug,2021,271
+26,PE,Pernambuco,9,Sep,2021,208
+26,PE,Pernambuco,10,Oct,2021,188
+26,PE,Pernambuco,11,Nov,2021,159
+26,PE,Pernambuco,12,Dec,2021,160
+27,AL,Alagoas,3,Mar,2020,5
+27,AL,Alagoas,4,Apr,2020,104
+27,AL,Alagoas,5,May,2020,983
+27,AL,Alagoas,6,Jun,2020,1057
+27,AL,Alagoas,7,Jul,2020,594
+27,AL,Alagoas,8,Aug,2020,257
+27,AL,Alagoas,9,Sep,2020,162
+27,AL,Alagoas,10,Oct,2020,100
+27,AL,Alagoas,11,Nov,2020,109
+27,AL,Alagoas,12,Dec,2020,218
+27,AL,Alagoas,1,Jan,2021,336
+27,AL,Alagoas,2,Feb,2021,368
+27,AL,Alagoas,3,Mar,2021,801
+27,AL,Alagoas,4,Apr,2021,851
+27,AL,Alagoas,5,May,2021,629
+27,AL,Alagoas,6,Jun,2021,594
+27,AL,Alagoas,7,Jul,2021,349
+27,AL,Alagoas,8,Aug,2021,125
+27,AL,Alagoas,9,Sep,2021,66
+27,AL,Alagoas,10,Oct,2021,55
+27,AL,Alagoas,11,Nov,2021,43
+27,AL,Alagoas,12,Dec,2021,22
+28,SE,Sergipe,4,Apr,2020,15
+28,SE,Sergipe,5,May,2020,172
+28,SE,Sergipe,6,Jun,2020,523
+28,SE,Sergipe,7,Jul,2020,705
+28,SE,Sergipe,8,Aug,2020,326
+28,SE,Sergipe,9,Sep,2020,152
+28,SE,Sergipe,10,Oct,2020,142
+28,SE,Sergipe,11,Nov,2020,90
+28,SE,Sergipe,12,Dec,2020,217
+28,SE,Sergipe,1,Jan,2021,205
+28,SE,Sergipe,2,Feb,2021,187
+28,SE,Sergipe,3,Mar,2021,598
+28,SE,Sergipe,4,Apr,2021,865
+28,SE,Sergipe,5,May,2021,752
+28,SE,Sergipe,6,Jun,2021,577
+28,SE,Sergipe,7,Jul,2021,204
+28,SE,Sergipe,8,Aug,2021,65
+28,SE,Sergipe,9,Sep,2021,26
+28,SE,Sergipe,10,Oct,2021,25
+28,SE,Sergipe,11,Nov,2021,23
+28,SE,Sergipe,12,Dec,2021,16
+29,BA,Bahia,3,Mar,2020,9
+29,BA,Bahia,4,Apr,2020,222
+29,BA,Bahia,5,May,2020,1146
+29,BA,Bahia,6,Jun,2020,1971
+29,BA,Bahia,7,Jul,2020,2217
+29,BA,Bahia,8,Aug,2020,1586
+29,BA,Bahia,9,Sep,2020,935
+29,BA,Bahia,10,Oct,2020,766
+29,BA,Bahia,11,Nov,2020,706
+29,BA,Bahia,12,Dec,2020,1362
+29,BA,Bahia,1,Jan,2021,1528
+29,BA,Bahia,2,Feb,2021,1619
+29,BA,Bahia,3,Mar,2021,3446
+29,BA,Bahia,4,Apr,2021,2822
+29,BA,Bahia,5,May,2021,2690
+29,BA,Bahia,6,Jun,2021,2422
+29,BA,Bahia,7,Jul,2021,1309
+29,BA,Bahia,8,Aug,2021,540
+29,BA,Bahia,9,Sep,2021,189
+29,BA,Bahia,10,Oct,2021,186
+29,BA,Bahia,11,Nov,2021,214
+29,BA,Bahia,12,Dec,2021,232
+31,MG,Minas Gerais,3,Mar,2020,14
+31,MG,Minas Gerais,4,Apr,2020,123
+31,MG,Minas Gerais,5,May,2020,312
+31,MG,Minas Gerais,6,Jun,2020,1033
+31,MG,Minas Gerais,7,Jul,2020,2365
+31,MG,Minas Gerais,8,Aug,2020,2326
+31,MG,Minas Gerais,9,Sep,2020,1930
+31,MG,Minas Gerais,10,Oct,2020,1520
+31,MG,Minas Gerais,11,Nov,2020,1215
+31,MG,Minas Gerais,12,Dec,2020,2606
+31,MG,Minas Gerais,1,Jan,2021,3728
+31,MG,Minas Gerais,2,Feb,2021,3361
+31,MG,Minas Gerais,3,Mar,2021,8737
+31,MG,Minas Gerais,4,Apr,2021,9365
+31,MG,Minas Gerais,5,May,2021,6289
+31,MG,Minas Gerais,6,Jun,2021,5185
+31,MG,Minas Gerais,7,Jul,2021,3282
+31,MG,Minas Gerais,8,Aug,2021,1963
+31,MG,Minas Gerais,9,Sep,2021,1133
+31,MG,Minas Gerais,10,Oct,2021,829
+31,MG,Minas Gerais,11,Nov,2021,412
+31,MG,Minas Gerais,12,Dec,2021,211
+32,ES,Espirito Santo,3,Mar,2020,1
+32,ES,Espirito Santo,4,Apr,2020,113
+32,ES,Espirito Santo,5,May,2020,579
+32,ES,Espirito Santo,6,Jun,2020,974
+32,ES,Espirito Santo,7,Jul,2020,837
+32,ES,Espirito Santo,8,Aug,2020,540
+32,ES,Espirito Santo,9,Sep,2020,328
+32,ES,Espirito Santo,10,Oct,2020,278
+32,ES,Espirito Santo,11,Nov,2020,448
+32,ES,Espirito Santo,12,Dec,2020,737
+32,ES,Espirito Santo,1,Jan,2021,701
+32,ES,Espirito Santo,2,Feb,2021,411
+32,ES,Espirito Santo,3,Mar,2021,1043
+32,ES,Espirito Santo,4,Apr,2021,1736
+32,ES,Espirito Santo,5,May,2021,905
+32,ES,Espirito Santo,6,Jun,2021,425
+32,ES,Espirito Santo,7,Jul,2021,246
+32,ES,Espirito Santo,8,Aug,2021,158
+32,ES,Espirito Santo,9,Sep,2021,188
+32,ES,Espirito Santo,10,Oct,2021,249
+32,ES,Espirito Santo,11,Nov,2021,141
+32,ES,Espirito Santo,12,Dec,2021,85
+33,RJ,Rio De Janeiro,3,Mar,2020,110
+33,RJ,Rio De Janeiro,4,Apr,2020,3483
+33,RJ,Rio De Janeiro,5,May,2020,7690
+33,RJ,Rio De Janeiro,6,Jun,2020,3626
+33,RJ,Rio De Janeiro,7,Jul,2020,2390
+33,RJ,Rio De Janeiro,8,Aug,2020,2179
+33,RJ,Rio De Janeiro,9,Sep,2020,2113
+33,RJ,Rio De Janeiro,10,Oct,2020,1954
+33,RJ,Rio De Janeiro,11,Nov,2020,2694
+33,RJ,Rio De Janeiro,12,Dec,2020,5671
+33,RJ,Rio De Janeiro,1,Jan,2021,4445
+33,RJ,Rio De Janeiro,2,Feb,2021,2329
+33,RJ,Rio De Janeiro,3,Mar,2021,5427
+33,RJ,Rio De Janeiro,4,Apr,2021,8305
+33,RJ,Rio De Janeiro,5,May,2021,6110
+33,RJ,Rio De Janeiro,6,Jun,2021,3763
+33,RJ,Rio De Janeiro,7,Jul,2021,2650
+33,RJ,Rio De Janeiro,8,Aug,2021,3599
+33,RJ,Rio De Janeiro,9,Sep,2021,2908
+33,RJ,Rio De Janeiro,10,Oct,2021,1153
+33,RJ,Rio De Janeiro,11,Nov,2021,319
+33,RJ,Rio De Janeiro,12,Dec,2021,154
+35,SP,São Paulo,3,Mar,2020,395
+35,SP,São Paulo,4,Apr,2020,2947
+35,SP,São Paulo,5,May,2020,6264
+35,SP,São Paulo,6,Jun,2020,7573
+35,SP,São Paulo,7,Jul,2020,7863
+35,SP,São Paulo,8,Aug,2020,6567
+35,SP,São Paulo,9,Sep,2020,4623
+35,SP,São Paulo,10,Oct,2020,3178
+35,SP,São Paulo,11,Nov,2020,2921
+35,SP,São Paulo,12,Dec,2020,5187
+35,SP,São Paulo,1,Jan,2021,7678
+35,SP,São Paulo,2,Feb,2021,7357
+35,SP,São Paulo,3,Mar,2021,22491
+35,SP,São Paulo,4,Apr,2021,22114
+35,SP,São Paulo,5,May,2021,15907
+35,SP,São Paulo,6,Jun,2021,16021
+35,SP,São Paulo,7,Jul,2021,8908
+35,SP,São Paulo,8,Aug,2021,4334
+35,SP,São Paulo,9,Sep,2021,2446
+35,SP,São Paulo,10,Oct,2021,1672
+35,SP,São Paulo,11,Nov,2021,912
+35,SP,São Paulo,12,Dec,2021,555
+41,PR,Paraná,3,Mar,2020,4
+41,PR,Paraná,4,Apr,2020,89
+41,PR,Paraná,5,May,2020,117
+41,PR,Paraná,6,Jun,2020,571
+41,PR,Paraná,7,Jul,2020,1322
+41,PR,Paraná,8,Aug,2020,1433
+41,PR,Paraná,9,Sep,2020,1167
+41,PR,Paraná,10,Oct,2020,764
+41,PR,Paraná,11,Nov,2020,1000
+41,PR,Paraná,12,Dec,2020,2251
+41,PR,Paraná,1,Jan,2021,1976
+41,PR,Paraná,2,Feb,2021,2040
+41,PR,Paraná,3,Mar,2021,6629
+41,PR,Paraná,4,Apr,2021,4812
+41,PR,Paraná,5,May,2021,5115
+41,PR,Paraná,6,Jun,2021,5486
+41,PR,Paraná,7,Jul,2021,2571
+41,PR,Paraná,8,Aug,2021,1526
+41,PR,Paraná,9,Sep,2021,1416
+41,PR,Paraná,10,Oct,2021,875
+41,PR,Paraná,11,Nov,2021,421
+41,PR,Paraná,12,Dec,2021,152
+42,SC,Santa Catarina,3,Mar,2020,6
+42,SC,Santa Catarina,4,Apr,2020,54
+42,SC,Santa Catarina,5,May,2020,105
+42,SC,Santa Catarina,6,Jun,2020,216
+42,SC,Santa Catarina,7,Jul,2020,887
+42,SC,Santa Catarina,8,Aug,2020,1026
+42,SC,Santa Catarina,9,Sep,2020,497
+42,SC,Santa Catarina,10,Oct,2020,323
+42,SC,Santa Catarina,11,Nov,2020,708
+42,SC,Santa Catarina,12,Dec,2020,1491
+42,SC,Santa Catarina,1,Jan,2021,1076
+42,SC,Santa Catarina,2,Feb,2021,1131
+42,SC,Santa Catarina,3,Mar,2021,3727
+42,SC,Santa Catarina,4,Apr,2021,2465
+42,SC,Santa Catarina,5,May,2021,1725
+42,SC,Santa Catarina,6,Jun,2021,1504
+42,SC,Santa Catarina,7,Jul,2021,1072
+42,SC,Santa Catarina,8,Aug,2021,677
+42,SC,Santa Catarina,9,Sep,2021,517
+42,SC,Santa Catarina,10,Oct,2021,381
+42,SC,Santa Catarina,11,Nov,2021,292
+42,SC,Santa Catarina,12,Dec,2021,173
+43,RS,Rio Grande Do Sul,3,Mar,2020,6
+43,RS,Rio Grande Do Sul,4,Apr,2020,66
+43,RS,Rio Grande Do Sul,5,May,2020,192
+43,RS,Rio Grande Do Sul,6,Jun,2020,450
+43,RS,Rio Grande Do Sul,7,Jul,2020,1387
+43,RS,Rio Grande Do Sul,8,Aug,2020,1607
+43,RS,Rio Grande Do Sul,9,Sep,2020,1283
+43,RS,Rio Grande Do Sul,10,Oct,2020,983
+43,RS,Rio Grande Do Sul,11,Nov,2020,1175
+43,RS,Rio Grande Do Sul,12,Dec,2020,2136
+43,RS,Rio Grande Do Sul,1,Jan,2021,1747
+43,RS,Rio Grande Do Sul,2,Feb,2021,2037
+43,RS,Rio Grande Do Sul,3,Mar,2021,8543
+43,RS,Rio Grande Do Sul,4,Apr,2021,4503
+43,RS,Rio Grande Do Sul,5,May,2021,2954
+43,RS,Rio Grande Do Sul,6,Jun,2021,2900
+43,RS,Rio Grande Do Sul,7,Jul,2021,1668
+43,RS,Rio Grande Do Sul,8,Aug,2021,770
+43,RS,Rio Grande Do Sul,9,Sep,2021,603
+43,RS,Rio Grande Do Sul,10,Oct,2021,669
+43,RS,Rio Grande Do Sul,11,Nov,2021,586
+43,RS,Rio Grande Do Sul,12,Dec,2021,247
+50,MS,Mato Grosso Do Sul,3,Mar,2020,1
+50,MS,Mato Grosso Do Sul,4,Apr,2020,7
+50,MS,Mato Grosso Do Sul,5,May,2020,11
+50,MS,Mato Grosso Do Sul,6,Jun,2020,72
+50,MS,Mato Grosso Do Sul,7,Jul,2020,315
+50,MS,Mato Grosso Do Sul,8,Aug,2020,482
+50,MS,Mato Grosso Do Sul,9,Sep,2020,408
+50,MS,Mato Grosso Do Sul,10,Oct,2020,271
+50,MS,Mato Grosso Do Sul,11,Nov,2020,156
+50,MS,Mato Grosso Do Sul,12,Dec,2020,521
+50,MS,Mato Grosso Do Sul,1,Jan,2021,542
+50,MS,Mato Grosso Do Sul,2,Feb,2021,381
+50,MS,Mato Grosso Do Sul,3,Mar,2021,1077
+50,MS,Mato Grosso Do Sul,4,Apr,2021,1366
+50,MS,Mato Grosso Do Sul,5,May,2021,1079
+50,MS,Mato Grosso Do Sul,6,Jun,2021,1222
+50,MS,Mato Grosso Do Sul,7,Jul,2021,626
+50,MS,Mato Grosso Do Sul,8,Aug,2021,336
+50,MS,Mato Grosso Do Sul,9,Sep,2021,135
+50,MS,Mato Grosso Do Sul,10,Oct,2021,45
+50,MS,Mato Grosso Do Sul,11,Nov,2021,27
+50,MS,Mato Grosso Do Sul,12,Dec,2021,30
+51,MT,Mato Grosso,3,Mar,2020,1
+51,MT,Mato Grosso,4,Apr,2020,12
+51,MT,Mato Grosso,5,May,2020,60
+51,MT,Mato Grosso,6,Jun,2020,673
+51,MT,Mato Grosso,7,Jul,2020,1228
+51,MT,Mato Grosso,8,Aug,2020,923
+51,MT,Mato Grosso,9,Sep,2020,636
+51,MT,Mato Grosso,10,Oct,2020,363
+51,MT,Mato Grosso,11,Nov,2020,184
+51,MT,Mato Grosso,12,Dec,2020,301
+51,MT,Mato Grosso,1,Jan,2021,617
+51,MT,Mato Grosso,2,Feb,2021,652
+51,MT,Mato Grosso,3,Mar,2021,2059
+51,MT,Mato Grosso,4,Apr,2021,2010
+51,MT,Mato Grosso,5,May,2021,1078
+51,MT,Mato Grosso,6,Jun,2021,991
+51,MT,Mato Grosso,7,Jul,2021,703
+51,MT,Mato Grosso,8,Aug,2021,639
+51,MT,Mato Grosso,9,Sep,2021,263
+51,MT,Mato Grosso,10,Oct,2021,104
+51,MT,Mato Grosso,11,Nov,2021,57
+51,MT,Mato Grosso,12,Dec,2021,43
+52,GO,Goiás,3,Mar,2020,7
+52,GO,Goiás,4,Apr,2020,47
+52,GO,Goiás,5,May,2020,156
+52,GO,Goiás,6,Jun,2020,583
+52,GO,Goiás,7,Jul,2020,1692
+52,GO,Goiás,8,Aug,2020,1938
+52,GO,Goiás,9,Sep,2020,1507
+52,GO,Goiás,10,Oct,2020,919
+52,GO,Goiás,11,Nov,2020,371
+52,GO,Goiás,12,Dec,2020,391
+52,GO,Goiás,1,Jan,2021,740
+52,GO,Goiás,2,Feb,2021,1258
+52,GO,Goiás,3,Mar,2021,4382
+52,GO,Goiás,4,Apr,2021,3108
+52,GO,Goiás,5,May,2021,1776
+52,GO,Goiás,6,Jun,2021,1961
+52,GO,Goiás,7,Jul,2021,1774
+52,GO,Goiás,8,Aug,2021,1512
+52,GO,Goiás,9,Sep,2021,840
+52,GO,Goiás,10,Oct,2021,506
+52,GO,Goiás,11,Nov,2021,181
+52,GO,Goiás,12,Dec,2021,100
+53,DF,Distrito Federal,3,Mar,2020,9
+53,DF,Distrito Federal,4,Apr,2020,36
+53,DF,Distrito Federal,5,May,2020,118
+53,DF,Distrito Federal,6,Jun,2020,401
+53,DF,Distrito Federal,7,Jul,2020,737
+53,DF,Distrito Federal,8,Aug,2020,741
+53,DF,Distrito Federal,9,Sep,2020,428
+53,DF,Distrito Federal,10,Oct,2020,269
+53,DF,Distrito Federal,11,Nov,2020,193
+53,DF,Distrito Federal,12,Dec,2020,166
+53,DF,Distrito Federal,1,Jan,2021,255
+53,DF,Distrito Federal,2,Feb,2021,243
+53,DF,Distrito Federal,3,Mar,2021,1244
+53,DF,Distrito Federal,4,Apr,2021,1432
+53,DF,Distrito Federal,5,May,2021,695
+53,DF,Distrito Federal,6,Jun,2021,486
+53,DF,Distrito Federal,7,Jul,2021,336
+53,DF,Distrito Federal,8,Aug,2021,328
+53,DF,Distrito Federal,9,Sep,2021,337
+53,DF,Distrito Federal,10,Oct,2021,342
+53,DF,Distrito Federal,11,Nov,2021,116
+53,DF,Distrito Federal,12,Dec,2021,45
